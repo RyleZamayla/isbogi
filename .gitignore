@@ -1,0 +1,5 @@
+node_modules/
+data/feedback.jsonl
+.DS_Store
+
+data/backups/

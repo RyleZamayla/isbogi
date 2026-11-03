@@ -1,0 +1,12 @@
+{
+  "name": "isbogi-pilot",
+  "version": "0.1.0",
+  "private": true,
+  "description": "ISBOGI research pilot: DONSAL CDO–Claveria transit information web app with a simulated fleet",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": { "node": ">=18" },
+  "license": "UNLICENSED"
+}
